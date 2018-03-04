@@ -5,8 +5,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-$dbhost = 'localhost';
-$dbuser = 'root';
-$dbpass = '';
+$dbhost = 'c252um.forpsi.com';
+$dbuser = 'b9039';
+$dbpass = '55whTUv';
 $dbport = '3306';
-$dbname = 'vetiverproject';
+$dbname = 'b9039';
